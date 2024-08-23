@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/tres-oficios-cinzentos-na-superficie-azul.jpg);
+    background-position: 20% 40% ;
+    background-size: 1700px;
+}
+
+section{
+    background-color:  black;
+    color: white;
+    width: 15%;
+    height:250px ;
+    margin-top: 150px;
+    margin-left: 40%
+}
