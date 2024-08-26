@@ -8,4 +8,5 @@ function login() {
     } else {
         document.getElementById('resultado').innerText = 'Tente novamente';
     }
+    document.getElementById('resultado').style.color = 'gray';
 }
